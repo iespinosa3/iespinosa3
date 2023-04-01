@@ -1,7 +1,9 @@
-- <h1 > 1<span  style="
+- <h1 > Hello, I am Ivan <span  style="
               background: -webkit-linear-gradient(#eee, lightgreen);
               -webkit-background-clip: text;
-              -webkit-text-fill-color: transparent;"></h1>
+  -webkit-text-fill-color: transparent;">Heloo</span></h1>
+  
+  
 - <h4>I am a<span style= "font-style:italic;"> web developer</span></h4>
 - <h4>I am currently working on shopify web development, creating awesome ecommerce websites</h4>
 
