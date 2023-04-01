@@ -22,22 +22,27 @@
 <h2>Web Development Projects:</h2>
 
   <ul style="list-style-type:circle;">
-  <h3><li></li></h3>
+  <h3><li><a href="https://github.com/iespinosa3/youtubeAPI">YouTube API Project</a></li></h3>
+  <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
-  <li></li>
-  <li></li>
+  <li>YouTube Data API and YouTube Data API Key</li>
+  <li> AJAX Request </li>
+  <li>JSON</li> 
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>   
+     
   
   </ul>  
-  </ul>  
+  </ul> 
   <ul style="list-style-type:circle;">
-  <h3><li></li></h3>
+ <h3><li><a href="https://github.com/iespinosa3/twiiterProject">Twiiter Project</a></li></h3>
+   <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
- 
-  <li> </li>
-   <li> </li>
-       </ul> 
-  </ul>  
-  
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>  
+
   
 
 
