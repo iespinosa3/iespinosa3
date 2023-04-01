@@ -1,7 +1,9 @@
-- <h1 style="color:yellow">Ivan Espinosa Jr.</h1>
+- <h1 style=""><span  style="
+              background: -webkit-linear-gradient(#eee, lightgreen);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;"></h1>
 - <h4>I am a<span style= "font-style:italic;"> web developer</span></h4>
 - <h4>I am currently working on shopify web development, creating awesome ecommerce websites</h4>
-
 
 
 <!---
