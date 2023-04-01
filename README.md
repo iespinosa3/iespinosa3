@@ -1,11 +1,44 @@
-- <h1 > Hello, I am Ivan, an Information Technology Specialist <span  style="
-              background: -webkit-linear-gradient(#eee,blue);
-              -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;"> Yellow</span></h1>
+<h1 style ="color:red;"> Hello, I am Ivan, an <span style="color:blue">IT Specialist and Web Developer</span></h1>
+<h2>Information Technology Projects:</h2>
+
+  <ul style="list-style-type:circle;">
+  <h3><li>osTicketing (Help Desk Ticketing System)</li></h3>
+   <ul style="list-style-type:circle;">
+  <li>Tea</li>
+  <li>Milk</li>
+  
+  </ul>  
+  </ul>  
+  <ul style="list-style-type:circle;">
+  <h3><li>Microsoft Azure</li></h3>
+   <ul style="list-style-type:circle;">
+ 
+  <li> Configure Active Directory within Microsoft Azure VMs</li>
+   <li> Network Security Groups (NSGs) and Inspecting Network Protocols</li>
+       </ul> 
+  </ul>  
+  
+
+<h2>Web Development Projects:</h2>
+
+  <ul style="list-style-type:circle;">
+  <h3><li></li></h3>
+   <ul style="list-style-type:circle;">
+  <li></li>
+  <li></li>
+  
+  </ul>  
+  </ul>  
+  <ul style="list-style-type:circle;">
+  <h3><li></li></h3>
+   <ul style="list-style-type:circle;">
+ 
+  <li> </li>
+   <li> </li>
+       </ul> 
+  </ul>  
   
   
-- <h4>I am a<span style= "font-style:italic;"> web developer</span></h4>
-- <h4>I am currently working on shopify web development, creating awesome ecommerce websites</h4>
 
 
 <!---
