@@ -1,7 +1,7 @@
-- <h1 > Hello, I am Ivan <span  style="
-              background: -webkit-linear-gradient(#eee, lightgreen);
+- <h1 > Hello, I am Ivan, an Information Technology Specialist <span  style="
+              background: -webkit-linear-gradient(#eee,blue);
               -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">Heloo</span></h1>
+  -webkit-text-fill-color: transparent;"></span></h1>
   
   
 - <h4>I am a<span style= "font-style:italic;"> web developer</span></h4>
