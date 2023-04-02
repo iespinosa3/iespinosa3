@@ -1,4 +1,4 @@
-<h1 style ="color:red;"> Hello, I am Ivan, an <span style="color:blue">IT Specialist and Web Developer</span></h1>
+<h1 style ="color:red;"> Hello, I am Ivan, an <a href= "https://www.linkedin.com/in/ivan-espinosa-5a28b459/">IT Specialist and Web Developer</h1>
 <h2>Information Technology Projects:</h2>
 
   <ul style="list-style-type:circle;">
