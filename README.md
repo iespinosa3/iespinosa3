@@ -24,6 +24,10 @@
 
   <ul style="list-style-type:circle;">
   <h3><li><a href="https://github.com/iespinosa3/youtubeAPI">YouTube API Project</a></li></h3>
+  <p>Notes: I created this project to demonstrate that I understand the various features of using javascripts and its frameworks.
+            This project allows users to select there own videos of interest rather than youtube choosing the content for the user.
+  
+  </p>
   <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
   <li>YouTube Data API and YouTube Data API Key</li>
@@ -38,6 +42,12 @@
   </ul> 
   <ul style="list-style-type:circle;">
  <h3><li><a href="https://github.com/iespinosa3/twiiterProject">Twiiter Project</a></li></h3>
+  <p>Notes: I created this project to demonstrate that I understand the various features of using javascripts and its frameworks.
+            This project allows the user to change the background of the twiiter page to random colors. Also, by entering user names
+            in the search, user can bring up that user profile. Usernames are as follow:  molesia, elon musk, and ivan  espinosa. 
+            It is purposely name twiiter to avoid legal ramifications.
+  
+  </p>
    <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
   <li>HTML</li>
