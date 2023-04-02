@@ -4,8 +4,9 @@
   <ul style="list-style-type:circle;">
   <h3><li>osTicketing (Help Desk Ticketing System)</li></h3>
    <ul style="list-style-type:circle;">
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>osTicket Installation</li>
+  <li>osTicket Post Installation Configuration</li>
+  <li>osTicket Ticket Lifecycle Examples</li>
   
   </ul>  
   </ul>  
