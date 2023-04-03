@@ -54,7 +54,10 @@
   <li>CSS</li>
   <li>Javascript</li>  
 
-  
+  </ul>  
+  </ul>
+  <h2>Jepodary Project Coming Soon... </h2>
+  <h2>Malware Analysis Coming Soon... </h2>
 
 
 <!---
