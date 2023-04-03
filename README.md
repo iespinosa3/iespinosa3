@@ -4,9 +4,9 @@
   <ul style="list-style-type:circle;">
   <h3><li>osTicketing (Help Desk Ticketing System)</li></h3>
    <ul style="list-style-type:circle;">
-  <li>osTicket Installation</li>
-  <li>osTicket Post Installation Configuration</li>
-  <li>osTicket Ticket Lifecycle Examples</li>
+  <li><a href="https://github.com/iespinosa3/osTicket_Installation">osTicket Installation</a></li>
+  <li><a href="https://github.com/iespinosa3/osTicket_Post_Installation">osTicket Installation Configuration</a></li>
+  <li><a href="https://github.com/iespinosa3/osTicket_Ticket_Lifecycle_Examples">osTicket Ticket Lifecycle Examples</a></li>
   
   </ul>  
   </ul>  
@@ -14,8 +14,8 @@
   <h3><li>Microsoft Azure</li></h3>
    <ul style="list-style-type:circle;">
  
-  <li> Configure Active Directory within Microsoft Azure VMs</li>
-   <li> Network Security Groups (NSGs) and Inspecting Network Protocols</li>
+  <li><a href="https://github.com/iespinosa3/active_directory"> Configure Active Directory within Microsoft Azure VMs</a></li>
+   <li><a href="https://github.com/iespinosa3/network_security_groups"> Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
        </ul> 
   </ul>  
   
