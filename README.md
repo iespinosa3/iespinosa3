@@ -5,8 +5,7 @@
   <h3><li>osTicketing (Help Desk Ticketing System)</li></h3>
    <ul style="list-style-type:circle;">
   <li><a href="https://github.com/iespinosa3/osTicket_Installation">osTicket Installation</a></li>
-  <li><a href="https://github.com/iespinosa3/osTicket_Post_Installation">osTicket Installation Configuration</a></li>
-  <li><a href="https://github.com/iespinosa3/osTicket_Ticket_Lifecycle_Examples">osTicket Ticket Lifecycle Examples</a></li>
+
   
   </ul>  
   </ul>  
