@@ -19,6 +19,27 @@
   </ul>  
   
 
+<h2>Infomation Technology Certificates:</h2>
+
+  <ul style="list-style-type:circle;">
+  <h3><li>Try hack Me Pre Security</li></h3>
+     <ul style="list-style-type:circle;">
+  <h3><li>Try hack Me Introduction to Cyber Security</li></h3>
+   <ul style="list-style-type:circle;">
+  <li><a href="https://github.com/iespinosa3/">Information Technology Professional</a></li>
+
+  
+  </ul>  
+  </ul>  
+  <ul style="list-style-type:circle;">
+  <h3><li>Microsoft Azure</li></h3>
+   <ul style="list-style-type:circle;">
+ 
+  <li><a href="https://github.com/iespinosa3/active_directory"> Configure Active Directory within Microsoft Azure VMs</a></li>
+   <li><a href="https://github.com/iespinosa3/network_security_groups"> Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
+       </ul> 
+  </ul>  
+
 <h2>Web Development Projects:</h2>
 
   <ul style="list-style-type:circle;">
