@@ -37,7 +37,7 @@
      <ul style="list-style-type:circle;">
  
    <ul style="list-style-type:circle;">
-  <li><a href="https://github.com/iespinosa3/Certificates-of-Completion.git">Introduction to Cyber Security</a></li>
+  <li><a href="https://github.com/iespinosa3/Certificates-of-Completion">Introduction to Cyber Security</a></li>
 
   
   </ul>  
