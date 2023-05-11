@@ -48,7 +48,7 @@
      <ul style="list-style-type:circle;">
  
    <ul style="list-style-type:circle;">
-  <li><a href="https://github.com/iespinosa3/">Information Technology Professional</a></li>
+  <li><a href="https://github.com/iespinosa3/Certificates-of-Completion">Information Technology Professional</a></li>
 
   
   </ul>  
