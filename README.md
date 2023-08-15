@@ -32,7 +32,7 @@
  
    <ul style="list-style-type:circle;">
   <li><a href="https://github.com/iespinosa3/Certificates-of-Completion">Try Hack Me Pre Security</a></li>
-    <p align="center">
+    <p align="left">
 <img width="200px" height="100px" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V99LLX8058.png" alt="osTicket logo"/>
 </p>
 
