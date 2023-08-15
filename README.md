@@ -60,7 +60,9 @@
  
    <ul style="list-style-type:circle;">
   <li><a href="https://github.com/iespinosa3/Certificates-of-Completion">Information Technology Professional</a></li>
-
+<p align="center">
+<img width="200px" height="100px"  src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/05/11/18/41/c0hXFpVAQvt/preview.jpg" alt="osTicket logo"/>
+</p>
   
   </ul>  
   </ul>  
