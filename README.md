@@ -90,8 +90,26 @@
 
   </ul>  
   </ul>
-  <h2>Jepodary Project Coming Soon... </h2>
-  <h2>Malware Analysis Coming Soon... </h2>
+<ul style="list-style-type:circle;">
+  <h3><li><a href="https://github.com/iespinosa3/REAC-Crypto-App">REAC Crypto Currency App</a></li></h3>
+  <p>Notes: This is one my first apps using REAC. This app is very simple to use and easy to understand. A person can look up any crypto currency ticker. It will be
+             displayed in a 24 hour period based on the curreny health. You can also remove items from the list or you could reset the list to start over.
+  </p>
+  <h3>Technologies used:</h3>
+   <ul style="list-style-type:circle;">
+  <li>Reac</li> 
+  <li>Fetch</li>
+  <li>JSON</li> 
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>   
+
+     
+  
+  </ul>  
+  </ul> 
+  
+  <h2>Cyber Security Threat Map coming soon...</h2>
 
 
 <!---
