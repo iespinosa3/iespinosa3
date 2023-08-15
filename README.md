@@ -78,11 +78,11 @@
   <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
   <li>YouTube Data API and YouTube Data API Key</li>
-  <li> AJAX Request </li>
-  <li>JSON</li> 
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>   
+  <li> AJAX Request </li>  <li>JSON</li>   <li>HTML</li>   <li>CSS</li>   <li>Javascript</li>  
+ 
+
+
+ 
      
   
   </ul>  
@@ -97,9 +97,9 @@
   </p>
    <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>  
+  <li>HTML</li>  <li>CSS</li>  <li>Javascript</li> 
+  
+ 
 
   </ul>  
   </ul>
@@ -114,13 +114,13 @@
   </p>
   <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
-  <li>Reac</li> 
-  <li>Fetch</li>
-  <li>JSON</li> 
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>   
+  <li>Reac</li> <li>Fetch</li>  <li>JSON</li> <li>HTML</li>  <li>CSS</li>  <li>Javascript</li>   
 
+  
+ 
+  
+ 
+ 
      
   
   </ul>  
