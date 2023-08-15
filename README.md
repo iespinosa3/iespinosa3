@@ -5,6 +5,10 @@
   <h3><li>osTicketing (Help Desk Ticketing System)</li></h3>
    <ul style="list-style-type:circle;">
   <li><a href="https://github.com/iespinosa3/osTicket_Installation">osTicket Installation</a></li>
+  <p align="left">
+<img width="200px" height="100px" src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/04/13/00/48/c0fIcJVa79u/preview.jpg" alt="osTicket logo"/>
+</p>
+
 
   
   </ul>  
