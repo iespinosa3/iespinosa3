@@ -92,6 +92,10 @@
   </ul>
 <ul style="list-style-type:circle;">
   <h3><li><a href="https://github.com/iespinosa3/REAC-Crypto-App">REAC Crypto Currency App</a></li></h3>
+  <p align="left">
+<img height="100px" width="100px" src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/08/15/18/49/c0joFdVpjV7/preview.jpg" alt="osTicket logo"/>
+</p>
+
   <p>Notes: This is one my first apps using REAC. This app is very simple to use and easy to understand. A person can look up any crypto currency ticker. It will be
              displayed in a 24 hour period based on the curreny health. You can also remove items from the list or you could reset the list to start over.
   </p>
