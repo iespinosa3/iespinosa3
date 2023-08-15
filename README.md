@@ -46,6 +46,9 @@
  
    <ul style="list-style-type:circle;">
   <li><a href="https://github.com/iespinosa3/Certificates-of-Completion">Introduction to Cyber Security</a></li>
+<p align="left">
+<img width="200px" height="100px" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YSBJ30KLKW.png" alt="osTicket logo"/>
+</p>
 
   
   </ul>  
