@@ -9,7 +9,7 @@
      
   <li><a href="https://github.com/iespinosa3/IvanArtGallery">Ivan Art Gallery</a></li>
    <p align="left">
-  <img width="200px" height="100px" src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/09/18/07/49/c0QFidVCgu7/preview.jpgalt="Art Gallery"/>
+  <img width="200px" height="100px" src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/09/18/07/49/c0QFidVCgu7/preview.jpg alt="Art Gallery"/>
   </p>
   <li>Firebase </li>  <li>React</li>   <li>HTML</li>   <li>CSS</li>   <li>Javascript</li>  
 
