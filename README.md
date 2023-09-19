@@ -114,7 +114,7 @@
   </p>
   <h3>Technologies used:</h3>
    <ul style="list-style-type:circle;">
-  <li>Reac</li> <li>Fetch</li>  <li>JSON</li> <li>HTML</li>  <li>CSS</li>  <li>Javascript</li>   
+  <li>React</li> <li>Fetch</li>  <li>JSON</li> <li>HTML</li>  <li>CSS</li>  <li>Javascript</li>   
 
   
  
