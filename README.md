@@ -109,7 +109,7 @@
 <img height="100px" width="200px" src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/08/15/18/49/c0joFdVpjV7/preview.jpg" alt="osTicket logo"/>
 </p>
 
-  <p>Notes: This is one my first apps using REAC. This app is very simple to use and easy to understand. A person can look up any crypto currency ticker. It will be
+  <p>Notes: This is one my first apps using React. This app is very simple to use and easy to understand. A person can look up any crypto currency ticker. It will be
              displayed in a 24 hour period based on the curreny health. You can also remove items from the list or you could reset the list to start over.
   </p>
   <h3>Technologies used:</h3>
