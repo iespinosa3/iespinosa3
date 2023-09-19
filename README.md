@@ -1,5 +1,24 @@
 <h1 style ="color:red;"> Hello, I am Ivan, an <a href= "https://www.linkedin.com/in/ivan-espinosa-5a28b459/">IT Specialist and Web Developer</h1>
-<h2>Information Technology Projects:</h2>
+
+  
+  <h2>Latest React Development Project:</h2>
+
+  <ul style="list-style-type:circle;">
+  <h3><li>Ivan Art Gallery using React</li></h3>
+   <ul style="list-style-type:circle;">
+     
+  <li><a href="https://github.com/iespinosa3/IvanArtGallery">Ivan Art Gallery</a></li>
+   <p align="left">
+  <img width="200px" height="100px" src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/09/18/07/49/c0QFidVCgu7/preview.jpgalt="Art Gallery"/>
+  </p>
+  <li>Firebase </li>  <li>React</li>   <li>HTML</li>   <li>CSS</li>   <li>Javascript</li>  
+
+  
+  
+  
+  
+  
+  <h2>Information Technology Projects:</h2>
 
   <ul style="list-style-type:circle;">
   <h3><li>osTicketing (Help Desk Ticketing System)</li></h3>
