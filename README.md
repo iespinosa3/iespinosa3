@@ -44,7 +44,19 @@
   
 
 <h2>Infomation Technology Certificates:</h2>
+  <ul style="list-style-type:circle;">
+  <h3><li>Jr. Penetration Tester</li></h3>
+     <ul style="list-style-type:circle;">
+ 
+   <ul style="list-style-type:circle;">
+  <li><a href="https://github.com/iespinosa3/Certificates-of-Completion">Jr. Penetration Tester</a></li>
+    <p align="left">
+<img width="200px" height="100px" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXINQ3FYNB.png" alt="osTicket logo"/>
+</p>
 
+  
+  </ul>  
+  </ul> 
   <ul style="list-style-type:circle;">
   <h3><li>Try hack Me Pre Security</li></h3>
      <ul style="list-style-type:circle;">
