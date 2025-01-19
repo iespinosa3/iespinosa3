@@ -1,4 +1,4 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1859160" style='border:none;'></iframe>  
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1859160" style='border:none;'></img>  
 
 <h1 style ="color:red;"> Hello, I am Ivan, an <a href= "https://www.linkedin.com/in/ivan-espinosa-5a28b459/"> CyberSecurity Analyst and Software Engineer </h1>
 
